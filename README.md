@@ -1,4 +1,4 @@
-# Python Basics
+# Introduction to Jupyter Notebook  
 
-Just a super simple walkthrough of Python
+Just a super simple introduction to the Jupyter Notebook
 
